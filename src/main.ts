@@ -1,5 +1,7 @@
 /// <reference types="@workadventure/iframe-api-typings/iframe_api" />
 
+WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+/*
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
@@ -182,7 +184,7 @@ WA.room.onLeaveZone('webinar',() => {
     closePopup()
     WA.nav.closeCoWebSite()
 });
-*/
+
 
 // Need Help / Follow Us
 WA.room.onEnterZone('needHelp', () => openPopup('needHelp'));
@@ -267,4 +269,4 @@ function closePopup(){
         currentPopup.close();
         currentPopup = undefined;
     }
-}
+}*/
