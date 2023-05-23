@@ -5715,7 +5715,7 @@
          "name":"zone",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -5825,7 +5825,7 @@
                  "value":"toRoom3Digicode"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -6643,7 +6643,7 @@
          "name":"jitsi",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -6737,7 +6737,7 @@
          "name":"landscape",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -6832,7 +6832,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -6927,7 +6927,7 @@
          "name":"doorTip",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7028,7 +7028,7 @@
                  "value":"doorCode"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7123,7 +7123,7 @@
          "name":"ctaDigitCode",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7218,7 +7218,7 @@
          "name":"ctaDigitCodeSwitch",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7313,7 +7313,7 @@
          "name":"belowWalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7408,7 +7408,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7503,7 +7503,7 @@
          "name":"belowFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7598,7 +7598,7 @@
          "name":"belowFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7693,7 +7693,7 @@
          "name":"furnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7788,7 +7788,7 @@
          "name":"aboveFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -7883,7 +7883,7 @@
          "name":"aboveFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8085,7 +8085,7 @@
                  "value":"followUs1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8287,7 +8287,7 @@
                  "value":"followUs3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8382,7 +8382,7 @@
          "name":"closedRestRoom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8478,7 +8478,7 @@
          "name":"closedRoom3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8573,7 +8573,7 @@
          "name":"openedRoom3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8668,7 +8668,7 @@
          "name":"closedCafeteria",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8763,7 +8763,7 @@
          "name":"openedCafeteria",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8858,7 +8858,7 @@
          "name":"closedMeetingRoom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -8953,7 +8953,7 @@
          "name":"openedMeetingRoom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -9521,7 +9521,7 @@
          "name":"openedRestRoom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -9616,7 +9616,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
@@ -9711,7 +9711,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":121,
          "x":0,
          "y":0
